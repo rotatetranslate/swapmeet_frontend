@@ -4,6 +4,11 @@
   "devDependencies": {
     "babel-core": "^6.18.0",
     "babel-loader": "^6.2.5",
+    "babel-preset-es2015-webpack": "^6.4.3",
     "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
   }
 }
