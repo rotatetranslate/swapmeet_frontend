@@ -1,0 +1,9 @@
+{
+  "name": "swap-app-fe",
+  "version": "0.0.1",
+  "devDependencies": {
+    "babel-core": "^6.18.0",
+    "babel-loader": "^6.2.5",
+    "webpack": "^1.13.2"
+  }
+}
